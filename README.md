@@ -174,9 +174,3 @@ Ib
 - Coincidencia total de cadena (no parcial)
 - Lectura desde archivo externo
 
----
-
-# 👨‍💻 Autor
-
-Proyecto académico – Lenguajes y Autómatas  
-Implementación en Python y C para entorno macOS.
